@@ -1,0 +1,10 @@
+{
+  "categories": [
+    {"name": "Help"},
+    {"name": "How-tos"},
+    {"name": "Tutorials"},
+    {"name": "Resources", "children": [
+      {"name": "Learning"}
+    ]}
+  ]
+}
